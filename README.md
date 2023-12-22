@@ -19,7 +19,7 @@
 
     ```bash
     cd frontend
-    npm install
+    npm install --force
     ```
 
 3. Install MongoDB Compass for the database: [Download MongoDB Compass](https://www.mongodb.com/try/download/compass)

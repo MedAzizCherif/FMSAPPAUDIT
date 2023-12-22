@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./ProfileCard.css";
 import Cover from "../../img/cover.jpg";
-import Profile from "../../img/profileImg.jpg";
+import Profile from "../../img/profileImg.png";
 import { Link, useParams } from "react-router-dom";
 import { useSelector } from "react-redux";
 import AuthContext from "../../context/AuthContext";
